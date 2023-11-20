@@ -13,7 +13,7 @@ public class Log {
         return this.rating;
     }
 
-    public String getDecription() {
+    public String getDescription() {
         return this.description;
     }
 }
